@@ -1,0 +1,23 @@
+{
+  "name": "20-4-ex-webpack-loaders",
+  "version": "1.0.0",
+  "description": "loaders additional exercise module 20.4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/20-4-ex-webpack-loaders.git"
+  },
+  "keywords": [
+    "webpack",
+    "loaders"
+  ],
+  "author": "bebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/20-4-ex-webpack-loaders/issues"
+  },
+  "homepage": "https://github.com/dwabe/20-4-ex-webpack-loaders#readme"
+}
